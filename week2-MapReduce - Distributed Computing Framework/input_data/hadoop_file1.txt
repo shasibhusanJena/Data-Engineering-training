@@ -1,0 +1,8 @@
+Hadoop is The Elephant King
+A yellow and elegant thing
+A wonderful King is Hadoop
+The Elephant plays well with Sqoop
+But what helps Hadoop to thrive 
+Are Impala and Hive and HDFS in the group
+
+
