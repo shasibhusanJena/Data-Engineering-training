@@ -1,0 +1,15 @@
+{"order_id":57012,"order_date":"2020-03-02 11:05:00","order_customer_id":2765,"order_status":"PROCESSING", "amount": 200}
+
+{"order_id":45256,"order_date":"2020-03-02 11:12:00","order_customer_id":791,"order_status":"COMPLETE", "amount": 300}
+
+{"order_id":53974,"order_date":"2020-03-02 11:20:00","order_customer_id":2098,"order_status":"COMPLETE", "amount": 700}
+
+{"order_id":5335,"order_date":"2020-03-02 11:40:00","order_customer_id":5547,"order_status":"ON_HOLD", "amount": 500}
+
+{"order_id":29288,"order_date":"2020-03-02 11:25:00","order_customer_id":3943,"order_status":"CLOSED", "amount": 200}
+
+{"order_id":5852,"order_date":"2020-03-02 11:48:00","order_customer_id":9344,"order_status":"COMPLETE", "amount": 400}
+
+{"order_id":5852,"order_date":"2020-03-02 11:14:00","order_customer_id":9344,"order_status":"COMPLETE", "amount": 400}
+
+{"order_id":5852,"order_date":"2020-03-02 11:16:00","order_customer_id":9344,"order_status":"COMPLETE", "amount": 600}
