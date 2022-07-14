@@ -1,0 +1,116 @@
+﻿{"card_id":5572427538311236,"amount":5358617,"postcode":41015,"pos_id":970896588019984,"transaction_dt":"2018-10-21 04:37:42"}
+{"card_id":5572427538311236,"amount":356492,"postcode":53149,"pos_id":160065694733720,"transaction_dt":"2018-09-22 05:21:43"}
+{"card_id":5134334388575160,"amount":8241105,"postcode":13302,"pos_id":338546916831311,"transaction_dt":"2018-02-12 19:25:59"}
+{"card_id":5134334388575160,"amount":3838236,"postcode":14008,"pos_id":974950096547483,"transaction_dt":"2018-07-17 23:13:13"}
+{"card_id":5134334388575160,"amount":180659,"postcode":88030,"pos_id":712925555674508,"transaction_dt":"2018-11-18 10:42:00"}
+{"card_id":5134334388575160,"amount":253503,"postcode":58501,"pos_id":140134748682132,"transaction_dt":"2018-07-20 05:47:42"}
+{"card_id":5134334388575160,"amount":568232,"postcode":64743,"pos_id":91157863715349,"transaction_dt":"2018-02-22 14:10:45"}
+{"card_id":5134334388575160,"amount":6263701,"postcode":40143,"pos_id":268682060701192,"transaction_dt":"2018-05-26 01:47:54"}
+{"card_id":5134334388575160,"amount":9858073,"postcode":79082,"pos_id":99881011795155,"transaction_dt":"2018-09-29 20:31:25"}
+{"card_id":5134334388575160,"amount":866874,"postcode":60958,"pos_id":671847163136812,"transaction_dt":"2018-11-29 09:51:17"}
+{"card_id":5285400498362679,"amount":7982864,"postcode":92382,"pos_id":319523249711457,"transaction_dt":"2018-05-02 20:05:24"}
+{"card_id":5285400498362679,"amount":2140506,"postcode":25040,"pos_id":762919765568319,"transaction_dt":"2014-01-08 03:31:52"}
+
+
+{"card_id":55724275383112300,"amount":5358617,"postcode":41015,"pos_id":970896588019984,"transaction_dt":"2018-10-21 04:37:42"}
+
+
+==============
+
+
+
+
+card_id,member_id,card_issue_date,country,state
+5572427538311236,976740397894598,2014-12-15 08:06:58.0,United States,Tonawanda
+5134334388575160,978465390240911,2012-10-17 11:55:14.0,United States,Kankakee
+5285400498362679,978786807247400,2014-01-08 03:31:52.0,United States,Fallbrook
+
+
+============
+
+
+
+
+{"impressionID": "100001", "ImpressionTime": "2020-11-01 11:00:00", "CampaignName": "Trendytech"}
+{"impressionID": "100002", "ImpressionTime": "2020-11-01 11:06:00", "CampaignName": "BigDataBySumit"}
+{"impressionID": "100003", "ImpressionTime": "2020-11-01 11:02:00", "CampaignName": "Trendytech Insights"}
+{"impressionID": "100004", "ImpressionTime": "2020-11-01 11:09:00", "CampaignName": "Trendytech"}
+
+
+{"clickID": "100001", "ClickTime": "2020-11-01 11:18:00"}
+{"clickID": "100002", "ClickTime": "2020-11-01 11:18:00"}
+{"clickID": "100003", "ClickTime": "2020-11-01 11:18:00"}
+{"clickID": "100004", "ClickTime": "2020-11-01 11:18:00"}
+{"clickID": "100001", "ClickTime": "2020-11-01 11:18:00"}
+
+
+===============================================================================================
+
+
+watermark boundary
+Impression - 10:16
+clicks - 10:30
+
+
+
+
+{"impressionID": "100001", "ImpressionTime": "2020-11-01 10:00:00", "CampaignName": "Trendytech India"}
+{"impressionID": "100002", "ImpressionTime": "2020-11-01 10:00:00", "CampaignName": "Trendytech India"}
+
+
+{"clickID": "100001", "ClickTime": "2020-11-01 10:15:00"}
+
+
+----------------------------------------
+
+
+{"impressionID": "100003", "ImpressionTime": "2020-11-01 10:46:00", "CampaignName": "Trendytech India"}
+{"clickID": "100003", "ClickTime": "2020-11-01 11:00:00"}
+
+
+----------------------------------------
+
+
+{"clickID": "100002", "ClickTime": "2020-11-01 10:15:00"}
+{"clickID": "100001", "ClickTime": "2020-11-01 10:15:00"}
+
+
+=========
+
+
+
+
+watermark:
+impression - 10:01
+clicks - 10:20
+
+
+
+
+state store:
+impressions- 100003
+clicks - 100003
+
+
+
+
+{"impressionID": "100001", "ImpressionTime": "2020-11-01 10:00:00", "CampaignName": "Trendytech India"}
+{"impressionID": "100002", "ImpressionTime": "2020-11-01 10:00:00", "CampaignName": "Trendytech India"}
+
+
+{"clickID": "100001", "ClickTime": "2020-11-01 10:15:00"}
+{"clickID": "100001", "ClickTime": "2020-11-01 10:16:00"}
+
+
+----------------------------------------
+
+
+{"impressionID": "100003", "ImpressionTime": "2020-11-01 10:40:00", "CampaignName": "Trendytech India"}
+{"clickID": "100003", "ClickTime": "2020-11-01 10:50:00"}
+
+
+----------------------------------------
+
+
+{"impressionID": "100004", "ImpressionTime": "2020-11-01 10:46:00" , "CampaignName": "Trendytech India"}
+{"clickID": "100004", "ClickTime": "2020-11-01 11:00:00"}
